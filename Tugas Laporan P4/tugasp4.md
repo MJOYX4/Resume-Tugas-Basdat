@@ -1,5 +1,4 @@
 # LAPORAN PRAKTIKUM P4
-## Pemeliharaan Basis Data, Tabel, dan Penggunaan Index dalam Menjaga Performa Basis Data
 
 
 ---
