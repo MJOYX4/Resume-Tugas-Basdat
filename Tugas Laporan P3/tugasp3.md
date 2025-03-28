@@ -1,4 +1,4 @@
-# Laporan Praktikum P3 : Manajemen User dan Role di MySQL
+# Laporan Praktikum P3 
 
 ## Latar Belakang
 Manajemen user dan role dalam sistem basis data merupakan aspek penting dalam mengontrol akses dan keamanan database. Dalam praktik ini, dilakukan berbagai konfigurasi user, role, serta privilege dalam MySQL untuk memahami mekanisme pengelolaan hak akses.
